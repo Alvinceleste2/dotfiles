@@ -53,7 +53,7 @@ alias ls='ls -lah --color'
 alias l='ls -lah --color'
 alias mosh='mosh --no-init'
 alias cd..='cd ..'
-alias temp="cd $(mktemp -d -p $HOME/Temporary XXXXX)"
+#alias temp="cd $(mktemp -d -p $HOME/Temporary XXXXX)"
 
 #export PATH="$HOME/.local/bin":"$HOME/.cargo/bin":"/opt/android-sdk/platform-tools/":$PATH
 #export dev='/ssd/dev/'
