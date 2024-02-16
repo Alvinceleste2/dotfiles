@@ -1,0 +1,13 @@
+-- Requires all plugin configurations
+require('plugin_config.gruvbox')
+require('plugin_config.nvim-tree')
+require('plugin_config.lualine')
+require('plugin_config.telescope')
+require('plugin_config.telescope-file-browser')
+require('plugin_config.markdown-preview')
+require('plugin_config.coc')
+require('plugin_config.lexima')
+require('plugin_config.nvim-gdb')
+require('plugin_config.vimtex')
+require('plugin_config.nvim-treesitter')
+require('plugin_config.indent-blankline')

@@ -1,0 +1,15 @@
+{
+  "suggest.noselect": false,
+  "inlayHint.enable": false,
+  "clangd.arguments": [
+    "-header-insertion=never"
+  ],
+  "signature.enable": true,
+  "diagnostic.virtualText": true,
+  "diagnostic.errorSign": "│",
+  "diagnostic.warningSign": "│",
+  "diagnostic.infoSign": "│",
+  "diagnostic.hintSign": "│",
+  "snippets.ultisnips.pythonPrompt": false
+}
+

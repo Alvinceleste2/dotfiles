@@ -1,6 +1,6 @@
 ~/.config/kitty/;kitty
 ~/.config/waybar/;waybar
-~/.config/config.rasi;rofi
+~/.config/rofi/config.rasi;rofi
 ~/.config/hypr/;hypr
 ~/.config/nvim/;nvim
 ~/.zshrc;zsh
