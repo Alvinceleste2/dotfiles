@@ -2,7 +2,7 @@
 
 require('lualine').setup {
   options = {
-    theme = "catppuccin",
+    theme = "tokyonight",
     component_separators = '|',
     section_separators = { left = '', right = '' },
   },
