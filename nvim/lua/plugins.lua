@@ -21,11 +21,6 @@ return require('packer').startup(function(use)
     use 'ellisonleao/gruvbox.nvim'			                	        -- Color theme
     use { "catppuccin/nvim", as = "catppuccin" }
     use { "folke/tokyonight.nvim", as = "tokyonight" }
-    use { "folke/trouble.nvim", as = "trouble",
-          dependencies = {"nvim-tree/nvim-web-devicons"},
-          opts = {},
-        }
-
 
     -- UI
     use 'nvim-tree/nvim-tree.lua'				                        -- File explorer

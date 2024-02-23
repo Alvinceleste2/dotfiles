@@ -167,11 +167,6 @@ _G.packer_plugins = {
     path = "/home/alvinceleste/.local/share/nvim/site/pack/packer/start/tokyonight",
     url = "https://github.com/folke/tokyonight.nvim"
   },
-  trouble = {
-    loaded = true,
-    path = "/home/alvinceleste/.local/share/nvim/site/pack/packer/start/trouble",
-    url = "https://github.com/folke/trouble.nvim"
-  },
   ultisnips = {
     loaded = true,
     path = "/home/alvinceleste/.local/share/nvim/site/pack/packer/start/ultisnips",
